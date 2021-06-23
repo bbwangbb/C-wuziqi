@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1536397824 source:c:\users\maibenben\desktop\datastructure\gobang_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"chess.h"
+	"LinkedStack.h"
+
+1536396007 c:\users\maibenben\desktop\datastructure\gobang_\chess.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"windows.h"
+
+1536397621 source:c:\users\maibenben\desktop\datastructure\gobang_\chess.c
+	"chess.h"
+
+1536392411 c:\users\maibenben\desktop\datastructure\gobang_\windows.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1536392411 source:c:\users\maibenben\desktop\datastructure\gobang_\windows.c
+	"windows.h"
+
+1536393794 source:c:\users\maibenben\desktop\datastructure\gobang_\linkedstack.c
+	"LinkedStack.h"
+
+1536393726 c:\users\maibenben\desktop\datastructure\gobang_\linkedstack.h
+	"chess.h"
+
+1538475564 source:c:\users\maibenben\desktop\bb\gobang_\chess.c
+	"chess.h"
+
+1538475445 c:\users\maibenben\desktop\bb\gobang_\chess.h
+	"data.h"
+	"LinkedStack.h"
+
+1536392411 c:\users\maibenben\desktop\bb\gobang_\windows.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1538142640 source:c:\users\maibenben\desktop\bb\gobang_\linkedstack.c
+	"LinkedStack.h"
+
+1538141482 c:\users\maibenben\desktop\bb\gobang_\linkedstack.h
+	"data.h"
+
+1538141611 source:c:\users\maibenben\desktop\bb\gobang_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"chess.h"
+	"LinkedStack.h"
+
+1536392411 source:c:\users\maibenben\desktop\bb\gobang_\windows.c
+	"windows.h"
+
+1538141482 c:\users\maibenben\desktop\bb\gobang_\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"windows.h"
+
